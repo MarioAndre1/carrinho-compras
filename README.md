@@ -4,7 +4,7 @@ Um projeto simples feito nas aulas de lógica de programação da alura, utiliza
 
 ## 🚀 Começando
 
-Nesse projeto construimos um formulário, lemos o produto selecionado na combobox, extraimos o nome, preço, quantidade, fizemos um cálculo de soma e também criamos um botão de limpar. 
+Nesse projeto construímos um formulário, lemos o produto selecionado na combobox, extraímos o nome, preço, quantidade, fizemos um cálculo de soma e também criamos um botão de limpar. 
 
 ## 🛠️ Construído com
 
